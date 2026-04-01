@@ -8,27 +8,11 @@
   "extras": [
     {
       "content": {
-        "zh": "測試 1",
-        "en": "Test 1"
+        "zh": "",
+        "en": ""
       },
-      "url": "https://www.google.com/",
-      "urlEn": "https://www.google.com/"
-    },
-    {
-      "content": {
-        "zh": "測試 2",
-        "en": "Test 2"
-      },
-      "url": "https://hkbus.app/zh",
-      "urlEn": "https://hkbus.app/zh"
-    },
-    {
-      "content": {
-        "zh": "測試 3",
-        "en": "Test 3"
-      },
-      "url": "https://loohpjames.com/",
-      "urlEn": "https://loohpjames.com/"
+      "url": "",
+      "urlEn": ""
     }
   ]
 }
