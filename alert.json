@@ -8,9 +8,11 @@
   "extras": [
     {
       "content": {
-        "zh": "",
-        "en": ""
+        "zh": "Test",
+        "en": "Test"
       },
+      "validFrom": "2026-04-02T15:13:00",
+      "validTo": "2026-04-02T215:14:00"
       "url": "",
       "urlEn": ""
     }
