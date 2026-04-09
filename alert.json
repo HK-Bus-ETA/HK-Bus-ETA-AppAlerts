@@ -1,30 +1,30 @@
 {
   "content": {
-    "zh": "將軍澳（坑口）凌晨臨時交通及運輸安排",
-    "en": "Overnight Temporary Traffic and Transport Arrangements in Hang Hau, Tseung Kwan O"
+    "zh": "",
+    "en": ""
   },
-  "url": "https://www.td.gov.hk/filemanager/en/content_13/Temporary%20Traffic%20and%20Transport%20Arrangements%20in%20TKO_17%20Mar%20to%2030%20Apr%202026_CHI.pdf",
-  "urlEn": "https://www.td.gov.hk/filemanager/en/content_13/Temporary%20Traffic%20and%20Transport%20Arrangements%20in%20TKO_17%20Mar%20to%2030%20Apr%202026_EN.pdf",
+  "url": "",
+  "urlEn": "",
   "extras": [
     {
       "content": {
-        "zh": "復活節假期早上5時至午夜12時",
-        "en": "From 05:00 to 00:00 during Easter holidays"
+        "zh": "",
+        "en": ""
       },
       "validFrom": "2026-04-01T00:00:00",
       "validTo": "2026-04-08T01:00:00",
-      "url": "https://www.td.gov.hk/filemanager/en/content_13/Temporary%20Traffic%20and%20Transport%20Arrangements%20in%20TKO_3-7%20Apr%202026_CHI.pdf",
-      "urlEn": "https://www.td.gov.hk/filemanager/en/content_13/Temporary%20Traffic%20and%20Transport%20Arrangements%20in%20TKO_3-7%20Apr%202026_EN.pdf"
+      "url": "",
+      "urlEn": ""
     },
     {
       "content": {
-        "zh": "復活節假期午夜12時至早上5時",
-        "en": "From 00:00 to 05:00 during Easter holidays"
+        "zh": "",
+        "en": ""
       },
       "validFrom": "2026-04-01T00:00:00",
       "validTo": "2026-04-08T01:00:00",
-      "url": "https://www.td.gov.hk/filemanager/en/content_13/Temporary%20Traffic%20and%20Transport%20Arrangements%20in%20TKO_4-6%20Apr%202026_CHI%20.pdf",
-      "urlEn": "https://www.td.gov.hk/filemanager/en/content_13/Temporary%20Traffic%20and%20Transport%20Arrangements%20in%20TKO_4-6%20Apr%202026_EN%20.pdf"
+      "url": "",
+      "urlEn": ""
     }
   ]
 }
