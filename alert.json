@@ -1,13 +1,33 @@
 {
   "content": {
-    "zh": "",
-    "en": ""
+    "zh": "2026 年端午節特別交通及運輸安排",
+    "en": "Special Traffic and Transport Arrangements for Tuen Ng Festival 2026"
   },
-  "validFrom": "2026-04-20T00:00:00",
-  "validTo": "2026-04-20T01:00:00",
-  "url": "",
-  "urlEn": "",
+  "validFrom": "2026-06-18T00:00:00",
+  "validTo": "2026-06-20T00:00:00",
+  "url": "https://www.td.gov.hk/filemanager/en/content_13/Chinese_2026.06.11%201831_Website%20version_v2_2026.06.12%201600.pdf",
+  "urlEn": "https://www.td.gov.hk/filemanager/en/content_13/English_2026_06.11%201831_Website%20version_v2_2026.06.12%201600.pdf",
   "extras": [
+    {
+      "content": {
+        "zh": "將軍澳（坑口）凌晨臨時交通及運輸安排",
+        "en": "Overnight Temporary Traffic and Transport Arrangements in Hang Hau, Tseung Kwan O"
+      },
+      "validFrom": "2026-06-18T00:00:00",
+      "validTo": "2026-06-19T07:00:00",
+      "url": "https://www.td.gov.hk/filemanager/en/content_13/TDN_Temporary%20Traffic%20and%20Transport%20Arrangements%20in%20TKO_19%20Jun%202026%20_CHI%20.pdf",
+      "urlEn": "https://www.td.gov.hk/filemanager/en/content_13/TDN_Temporary%20Traffic%20and%20Transport%20Arrangements%20in%20TKO_19%20Jun%202026%20_EN%20.pdf"
+    },
+    {
+      "content": {
+        "zh": "昂船洲、石崗及新圍軍營開放日的特別公共運輸安排",
+        "en": "Special Public Transport Arrangements For The Barracks Open Day In Ngong Shuen Chau, Shek Kong And San Wai"
+      },
+      "validFrom": "2026-06-18T00:00:00",
+      "validTo": "2026-06-28T23:59:59",
+      "url": "https://www.td.gov.hk/filemanager/en/content_13/WCO/openday2026_tc.pdf",
+      "urlEn": "https://www.td.gov.hk/filemanager/en/content_13/WCO/openday2026_eng.pdf"
+    },
     {
       "content": {
         "zh": "",
