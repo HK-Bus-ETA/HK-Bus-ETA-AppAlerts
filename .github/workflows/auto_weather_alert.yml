@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  update:
+  Auto-Weather-Alert:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
