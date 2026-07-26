@@ -9,17 +9,6 @@
   "urlEn": "https://www.td.gov.hk/filemanager/en/content_13/TPF2/TDN%20Special%20Event%202026%20TDN%20e.pdf",
   "extras": [
     {
-      "_managedBy": "auto-weather-alert",
-      "content": {
-        "zh": "熱帶氣旋警告信號現正生效",
-        "en": "Tropical Cyclone Warning Signal in force"
-      },
-      "url": "https://www.td.gov.hk/tc/special_news/spnews.htm",
-      "urlEn": "https://www.td.gov.hk/en/special_news/spnews.htm",
-      "validFrom": "2026-07-26T12:32:08+08:00",
-      "validTo": "2026-07-26T12:52:08+08:00"
-    },
-    {
       "content": {
         "zh": "輕鐵屯門泳池站已改名為海皇路站",
         "en": "Light Rail \"Tuen Mun Swimming Pool Stop\" renamed to \"Hoi Wong Road Stop\""
